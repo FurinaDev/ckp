@@ -1,0 +1,6 @@
+{
+  "name": "Çağdaş Kültür Platformu",
+  "description": "Sanatçılar, araştırmacılar ve kültür kurumları için bağımsız kültür, sanat, müzik ve fon ağı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
